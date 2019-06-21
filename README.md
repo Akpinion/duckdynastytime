@@ -1,2 +1,2 @@
-# duckdynastytime
-It's that famous time again for Duck Dynasty 
+# learn gtihub time
+It's that famous time again for learning github (not duck dynasty) 
